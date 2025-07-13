@@ -1,6 +1,8 @@
 import React from 'react';
 import WeatherReport from './components/WeatherReport';
 import './App.css';
+import './index.css'; 
+
 
 function App() {
   return (
